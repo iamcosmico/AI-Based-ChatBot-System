@@ -1,7 +1,5 @@
 # AI Based ChatBot System
 
-**Topic: AI-Based Chatbot Systems**
-
 - **Abstract:**
   - AI-Based Chatbot Systems leverage Artificial Intelligence to Interact with Users, Simulate Conversations, and Automate Tasks Across Various Domains. This Topic Explores Their Development, Applications, and Advancements.
 
